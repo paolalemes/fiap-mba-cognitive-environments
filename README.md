@@ -43,11 +43,11 @@ Os arquivos necessários são:
 - **Extração de Nome e Endereço** do comprovante usando **OpenAI GPT-4o**
 - **Verificação de correspondência** entre os nomes extraídos
 
-## Contribuição
-Caso queira contribuir para este projeto, sinta-se à vontade para abrir um **pull request** ou relatar problemas na seção de **issues**.
 
 ## Autor
-[Seu Nome]
+[Paola Lemes Pereira]
+[Felipe Fabossi]
+[Yago Angelini]
 
 ---
 Este repositório foi criado como parte de um trabalho acadêmico para a disciplina de **Cognitive Environments**.
