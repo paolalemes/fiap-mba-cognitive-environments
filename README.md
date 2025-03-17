@@ -15,7 +15,7 @@ Antes de executar o código, é necessário possuir:
 - **Chave de API da OpenAI** para extrair informações do comprovante de endereço.
 - **Jupyter Notebook** configurado para execução do script.
 
-## Como Executar
+## Como Executar o Jupyter Notebook
 1. Clone este repositório:
    ```sh
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
@@ -25,6 +25,28 @@ Antes de executar o código, é necessário possuir:
    pip install boto3 Pillow openai requests matplotlib
    ```
 3. Execute o **Jupyter Notebook** e siga as instruções no próprio código.
+
+## Como Executar o Aplicativo Streamlit
+1. Clone este repositório:
+   ```sh
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
+2. Crie uma env:
+   ```sh
+   python -m venv venv
+   ```
+3. Ative o venv: 
+   ```sh
+   venv\scripts\activate
+   ```
+4. Instale as dependencias:
+   ```sh
+   pip install -r requirements.txt
+   ```
+5. Execute o aplicativo Streamlit
+   ```sh
+   streamlit run streamlit_app.py
+   ```
 
 ## Importante: Carregamento de Arquivos
 Por questões de **privacidade e segurança de dados**, este repositório **não inclui imagens de CNHs, fotos pessoais ou comprovantes de endereço**.
