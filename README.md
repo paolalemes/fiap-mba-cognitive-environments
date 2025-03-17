@@ -48,6 +48,7 @@ Antes de executar o código, é necessário possuir:
    streamlit run streamlit_app.py
    ```
 
+[Ou acesse diretamente o aplicativo](https://trabalho-fiap-cog-dfdspwbd8nca9ezr8ib2pa.streamlit.app/)
 ## Importante: Carregamento de Arquivos
 Por questões de **privacidade e segurança de dados**, este repositório **não inclui imagens de CNHs, fotos pessoais ou comprovantes de endereço**.
 
@@ -66,10 +67,10 @@ Os arquivos necessários são:
 - **Verificação de correspondência** entre os nomes extraídos
 
 
-## Autor
-[Paola Lemes Pereira]
-[Felipe Fabossi]
-[Yago Angelini]
+## Autores
+ - Felipe Fabossi
+ - Paola Lemes Pereira
+ - Yago Angelini
 
 ---
 Este repositório foi criado como parte de um trabalho acadêmico para a disciplina de **Cognitive Environments**.
